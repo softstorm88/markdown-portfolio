@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+list of artists that I like currently:
+* Khruangbin
+* L'Imperatrice
+* Parcels
+* Peter Cat Recording Co.
+* Vulfpeck
