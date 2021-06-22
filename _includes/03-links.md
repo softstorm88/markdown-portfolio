@@ -1,1 +1,2 @@
-Replace this with a link to your a GitHub or social media profile.
+yo will know my personality from my playlist
+![Spotify](https://open.spotify.com/user/jetengine)
